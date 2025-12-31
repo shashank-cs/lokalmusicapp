@@ -12,9 +12,7 @@ Internet connection (for music search & streaming)
 
 Steps to Run
 
-Clone the repository
-
-git clone https://github.com/<your-username>/lokalmisicapp.git
+/lokalmisicapp.git
 
 
 Open in Android Studio
