@@ -14,7 +14,7 @@ Steps to Run
 
 Clone the repository
 
-git clone https://github.com/<your-username>/Lokal-Music-Player.git
+git clone https://github.com/<your-username>/lokalmisicapp.git
 
 
 Open in Android Studio
